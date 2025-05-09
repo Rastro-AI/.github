@@ -2,7 +2,7 @@
 
 ### Get started 🏁
 
-1. Install **Rastro** free on the App Store.
+1. Install **[Rastro](https://apple.co/4iSU8nR)** free on the App Store.
 2. Snap a photo of any room.
 3. Tap **Redesign** — enjoy new layouts, palettes and furniture in seconds.
 4. Upgrade whenever you want unlimited concepts.
