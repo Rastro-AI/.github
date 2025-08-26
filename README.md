@@ -1,2 +1,2 @@
 # .github
-Your personal Interior Designer
+Catalog management for distributors
